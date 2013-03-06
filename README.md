@@ -1,4 +1,7 @@
-scifi
-=====
+#SIGCSE2013 Demo Repo
 
-A repo for my science fiction course
+Contains class essays:
+* Grim Household Tales
+* Stoker
+* Shelley
+* Poe/Hawthorne
